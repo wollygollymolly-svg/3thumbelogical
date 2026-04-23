@@ -1,0 +1,12 @@
+{
+  "name": "Ampmirr Sovereign Engine",
+  "description": "A biometric-imprinted 3-state logic system utilizing geometric cryptography and decentralized asset management for collective security and optimal decision-making.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI-powered decision support",
+    "Quantum-resistant cryptographic logic",
+    "3-phase fund scaling audit"
+  ]
+}

@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+@theme {
+  --color-slate-950: #0a0a0c;
+  --color-accent: #00f2ff;
+  --color-card: #16161a;
+  --color-subcard: #0f0f12;
+}
+
+@layer base {
+  body {
+    @apply bg-[#0A0A0C] text-[#E2E2E7] font-sans flex flex-col overflow-hidden;
+  }
+
+  /* Custom Scrollbar for the technical look */
+  .custom-scrollbar::-webkit-scrollbar {
+    width: 4px;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-track {
+    @apply bg-transparent;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    @apply bg-[#00F2FF]/20 rounded-full;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    @apply bg-[#00F2FF]/40;
+  }
+}
+
+@keyframes pulse-cyan {
+  0%, 100% { opacity: 1; transform: rotate(45deg) scale(1); }
+  50% { opacity: 0.5; transform: rotate(45deg) scale(0.9); }
+}
+
+.animate-pulse-cyan {
+  animation: pulse-cyan 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
