@@ -1,0 +1,34 @@
+// High-Performance AST Synthesizer
+export class ASTNode {
+  type: string;
+  value?: string;
+  children: ASTNode[] = [];
+  constructor(type: string, value?: string) {
+    this.type = type;
+    this.value = value;
+  }
+}
+
+export function parseIntentSubconscious(tokens: string[]): ASTNode {
+  const root = new ASTNode("Program");
+  let cursor = 0;
+
+  function walk(): ASTNode {
+    let token = tokens[cursor];
+    if (token.startsWith("action:")) {
+      cursor++;
+      const node = new ASTNode("Action", token.split(":")[1]);
+      while (cursor < tokens.length && !tokens[cursor].startsWith("action:")) {
+        node.children.push(new ASTNode("Param", tokens[cursor++]));
+      }
+      return node;
+    }
+    cursor++;
+    return new ASTNode("Literal", token);
+  }
+
+  while (cursor < tokens.length) {
+    root.children.push(walk());
+  }
+  return root;
+}
