@@ -8,5 +8,348 @@
     "AI-powered decision support",
     "Quantum-resistant cryptographic logic",
     "3-phase fund scaling audit"
-  ]
+  ],
+  "applets": [{
+    "lastAccessTime": "2026-05-24T01:20:39.352387Z",
+    "firstAccessTime": "2026-04-23T19:25:41.931890Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "681d5d73-92cc-41a9-bcbd-9501f14589a5"
+      }
+    },
+    "name": "3THUMBELOGICAL Sovereign Engine",
+    "description": "Built from broken gears and donated pixels. A cognitive AI legacy engine operationalizing myth and sustaining sovereignty for the ones who have lost hope."
+  }, {
+    "lastAccessTime": "2026-05-23T19:35:44.098914Z",
+    "firstAccessTime": "2026-04-22T10:27:00.877826Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "0385ba08-fa41-4156-bf92-a578de87ee33"
+      }
+    },
+    "name": "The Bard's Quill",
+    "description": "An AI-powered creative companion that optimizes your writing and refines your contributions with bardic flair."
+  }, {
+    "lastAccessTime": "2026-05-22T19:15:06.131612Z",
+    "firstAccessTime": "2026-05-20T19:13:03.303420Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "44fd6679-d164-4d2a-bb42-d5bd7f17cfcf"
+      }
+    },
+    "name": "Nexus Dream",
+    "description": "A predictive AI platform that designs invisible, empathetic, and seamlessly connected apps by anticipating user intent and optimizing logic.",
+    "runtimeType": 1
+  }, {
+    "lastAccessTime": "2026-05-22T08:21:32.964525Z",
+    "firstAccessTime": "2026-04-26T10:17:32.546337Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "5c87242a-70eb-48dc-b03d-7b8926b8925e"
+      }
+    },
+    "name": "YEXAFRAME-01: FFRS Drone Control",
+    "description": "Symmetrical-Computing-Machine interface operating on Tri-State Logic, Hodge Decomposition, and the Zerost-Spiral Framework.",
+    "runtimeType": 1
+  }, {
+    "lastAccessTime": "2026-05-22T07:16:09.604245Z",
+    "firstAccessTime": "2026-04-28T13:42:08.342914Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "78b8fa75-d4f7-4b74-9686-c1f9cff6f040"
+      }
+    },
+    "name": "Novalumos Akriacortex",
+    "description": "An advanced quantitative cognitive analysis dashboard visualizing human-AI synergy.",
+    "runtimeType": 1
+  }, {
+    "lastAccessTime": "2026-05-22T07:04:47.311539Z",
+    "firstAccessTime": "2026-05-21T09:10:55.902444Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "7d803a70-0465-42f7-bd7f-8d5c2db92963"
+      }
+    },
+    "name": "SHA-256 Explorer",
+    "description": "An interactive SHA-256 cryogenic hashing tool and round physical state visualizer with local persistence.",
+    "runtimeType": 2
+  }, {
+    "lastAccessTime": "2026-05-22T05:55:43.918247Z",
+    "firstAccessTime": "2026-05-21T15:19:26.324828Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "507a0208-cd56-49c5-af21-2745d1f92087"
+      }
+    },
+    "name": "Rhythm Language",
+    "description": "An interactive synthesizer and step sequencer that plays the 230 BPM rhythm language.",
+    "runtimeType": 2
+  }, {
+    "lastAccessTime": "2026-05-20T20:21:58.399164Z",
+    "firstAccessTime": "2026-05-17T15:24:20.529503Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "6d6f29e3-7b58-4ed4-a1d9-1fbe345b5428"
+      }
+    },
+    "name": "Nexus Research Lab",
+    "description": "An offline-capable AI research assistant designed for deep work and information synthesis. Save your work locally and use AI to analyze when online.",
+    "runtimeType": 1
+  }, {
+    "lastAccessTime": "2026-05-20T20:08:10.464270Z",
+    "firstAccessTime": "2026-04-29T03:11:37.821340Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "6d46bdd9-5126-4d87-9392-5c90515b12bc"
+      }
+    },
+    "name": "Family Perspectives",
+    "description": "An AI-moderated platform for families to share stories, explore diverse perspectives, and compare experiences over time.",
+    "runtimeType": 1
+  }, {
+    "lastAccessTime": "2026-05-17T15:21:24.981640Z",
+    "firstAccessTime": "2026-05-17T14:16:49.194668Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "0fc2d1cf-f9b9-4a42-a53a-6088b79c14c2"
+      }
+    },
+    "name": "Fractbloom Resonance",
+    "description": "A high-contrast, liquid-glass intelligence system for cryptographic exploration, recursive mathematics, and domain-specific AI synthesis."
+  }, {
+    "lastAccessTime": "2026-05-17T07:46:45.929549Z",
+    "firstAccessTime": "2026-04-25T22:17:59.337518Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "2ef9ffb1-1b37-4acd-bfad-cafcc8f54a9c"
+      }
+    },
+    "name": "Mission Control",
+    "description": "Command center and dashboard to assist in preventing global crises.",
+    "runtimeType": 1
+  }, {
+    "lastAccessTime": "2026-05-17T07:44:05.122430Z",
+    "firstAccessTime": "2026-04-25T21:56:18.187734Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "28cff22c-a18b-4bee-ae15-300c21387c1c"
+      }
+    },
+    "name": "Yexaframe Blueprint",
+    "description": "Interactive blueprint of the 3Thumbelogical Yexaframe 1.00 architecture, detailing the 39 invariant rules and the Best Outcome of All Potential.",
+    "runtimeType": 1
+  }, {
+    "lastAccessTime": "2026-05-07T20:15:50.495486Z",
+    "firstAccessTime": "2026-04-28T13:17:49.938948Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "8c8dc3bd-f0aa-475e-8243-b78fe201f650"
+      }
+    },
+    "name": "Asset Hound",
+    "description": "An AI-powered intellectual property detection tool that searches the web for your signature blueprint work and reports findings with actionable next steps.",
+    "runtimeType": 1
+  }, {
+    "lastAccessTime": "2026-05-06T16:48:14.762627Z",
+    "firstAccessTime": "2026-05-06T16:48:14.762627Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "50a0b40a-b39e-4d64-82b7-7d2823c22320"
+      }
+    },
+    "name": "Untitled",
+    "description": "Generated by Gemini."
+  }, {
+    "lastAccessTime": "2026-05-03T01:15:53.628540Z",
+    "firstAccessTime": "2026-05-03T00:35:08.609016Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "8942ad58-e07b-4caf-ad4e-3b44dee89d48"
+      }
+    },
+    "name": "Prominent Figure Modeling",
+    "description": "An AI-powered engine to analyze the moral character and aspirations of historically and culturally significant figures.",
+    "runtimeType": 1
+  }, {
+    "lastAccessTime": "2026-05-03T00:32:11.574688Z",
+    "firstAccessTime": "2026-05-02T18:59:57.890860Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "ad86a6ed-272b-49de-abe6-8d1a38273c95"
+      }
+    },
+    "name": "AkiraCortex NovaLomus",
+    "description": "Neighborhood solar thermal/biomass energy utility manifest and technical command center."
+  }, {
+    "lastAccessTime": "2026-05-01T21:17:46.870392Z",
+    "firstAccessTime": "2026-04-28T05:58:46.940470Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "3d4e2d71-4a0f-4cfe-a5d9-d5f2c1c73fbb"
+      }
+    },
+    "name": "Quantum Cognitive Automaton",
+    "description": "A cellular automaton simulator blending Conway's Game of Life with quantum cognitive principles like superposition, wave-collapse observation, and memory trace persistency.",
+    "runtimeType": 1
+  }, {
+    "lastAccessTime": "2026-04-28T23:07:05.407137Z",
+    "firstAccessTime": "2026-04-28T20:46:55.921814Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "research_visualization"
+      }
+    },
+    "name": "Research Visualization",
+    "description": "Research paper reimagined as an elegant, interactive narrative site."
+  }, {
+    "lastAccessTime": "2026-04-28T20:21:19.146507Z",
+    "firstAccessTime": "2026-04-28T20:21:19.146507Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "d20dfad3-9086-4e32-b888-0edd3964e827"
+      }
+    },
+    "name": "Untitled",
+    "description": "Generated by Gemini."
+  }, {
+    "lastAccessTime": "2026-04-28T05:54:53.162142Z",
+    "firstAccessTime": "2026-04-22T20:30:56.981951Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "a4037bd4-a2ec-4ffe-b2d4-b5c04e0ec993"
+      }
+    },
+    "name": "SynthDrive",
+    "description": "A lightweight assistant for synthesizing and chatting with Google Drive documents, optimized for field devices like the Zebra TC56."
+  }, {
+    "lastAccessTime": "2026-04-28T03:05:57.816502Z",
+    "firstAccessTime": "2026-04-26T14:01:13.033927Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "8cfe6293-79d7-48b2-9df9-f7dd89163c3b"
+      }
+    },
+    "name": "Remix: Synthwave Space",
+    "description": "A retro-futuristic 3D arcade game where players navigate life scenarios and earn tokens for completing mini lessons. Execute WAKHodgeLayer Synthesis: Interlock Drive, Photos, and Docs. Map all 20,000 assets to the Mathlabhodge Logic Engine and Trek Star Foundation framework. No status updates—just build the unified ledger."
+  }, {
+    "lastAccessTime": "2026-04-27T18:27:12.360130Z",
+    "firstAccessTime": "2026-04-26T03:02:19.349127Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "5ad4abae-964a-4928-970c-a4a6cc2acfb9"
+      }
+    },
+    "name": "Kadifact Music Production",
+    "description": "The ultimate DAW for recording, tuning, mixing, and finding the newest synth sounds. Fully adjustable frequency tuning, advanced configurable drums, and intelligent lyric retiming."
+  }, {
+    "lastAccessTime": "2026-04-27T07:31:54.099100Z",
+    "firstAccessTime": "2026-04-27T07:28:08.701113Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "28049ee9-da77-49e9-902a-765e4af1cbed"
+      }
+    },
+    "name": "Kadifact Music Player",
+    "description": "Offline music player with equalizer, crossfade, lyrics generation and high-quality playback."
+  }, {
+    "lastAccessTime": "2026-04-26T15:31:58.256618Z",
+    "firstAccessTime": "2026-04-26T15:31:58.256618Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "4f2c1857-4989-40ef-8f83-025b93b2babd"
+      }
+    },
+    "name": "Untitled",
+    "description": "Generated by Gemini."
+  }, {
+    "lastAccessTime": "2026-04-26T13:58:39.017399Z",
+    "firstAccessTime": "2026-04-26T13:58:39.017399Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "synthwave_space"
+      }
+    },
+    "name": "Synthwave Space",
+    "description": "A retro-futuristic 3D arcade game where players navigate space and battle enemies."
+  }, {
+    "lastAccessTime": "2026-04-26T09:50:09.633377Z",
+    "firstAccessTime": "2026-04-26T09:50:09.633377Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "14290df6-0b2d-4b28-aa0a-6d16d12837f3"
+      }
+    },
+    "name": "Untitled",
+    "description": "Generated by Gemini."
+  }, {
+    "lastAccessTime": "2026-04-26T00:36:28.642661Z",
+    "firstAccessTime": "2026-04-26T00:20:06.113903Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "63f7982b-3805-4c46-b9a3-8c8506b3eb83"
+      }
+    },
+    "name": "SnapClean AI",
+    "description": "A professional-grade product photo editor powered by Gemini 2.5 Flash Image. Remove backgrounds, clean up distractions, and enhance your product shots just by typing what you want."
+  }, {
+    "lastAccessTime": "2026-04-26T00:11:06.410807Z",
+    "firstAccessTime": "2026-02-07T01:52:23.345572Z",
+    "source": {
+      "drive": {
+        "resourceId": "10dRyX3WEObm5T6iiW_4PuQJqm3JVMifI",
+        "revisionId": "0BwGymQP-56OQNDRYK1NmSTV2L2k4aUg2ZnF3WWZZNVRDNmhnPQ"
+      }
+    },
+    "name": "SnapClean AI",
+    "description": "A professional-grade product photo editor powered by Gemini 2.5 Flash Image. Remove backgrounds, clean up distractions, and enhance your product shots just by typing what you want."
+  }, {
+    "lastAccessTime": "2026-04-22T10:21:41.869359Z",
+    "firstAccessTime": "2026-04-22T10:00:21.010878Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "ff81b35b-5fb0-4164-8c80-58d668b17746"
+      }
+    },
+    "name": "Kadifact Wakhodge",
+    "description": "A storyteller weaving magical tales to build a better life for his children. Features customizable speech settings and AI illustrations."
+  }, {
+    "lastAccessTime": "2026-02-07T08:26:23.743588Z",
+    "firstAccessTime": "2026-02-07T08:21:13.670361Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "kinetic_shapes"
+      }
+    },
+    "name": "Kinetic Shapes",
+    "description": "Physics sandbox for simulating variable gravity and collision dynamics."
+  }]
 }
